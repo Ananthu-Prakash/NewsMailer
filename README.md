@@ -83,4 +83,3 @@ python news_email.py
 ## 🪪 License
 
 This project is released under the **MIT License**.  
-© 2025 Ananthu Prakash, Ardit Sulce
