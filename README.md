@@ -65,7 +65,7 @@ pip install requests
 ## ▶️ Run the Script
 
 ```bash
-python news_email.py
+python main.py
 ```
 
 ---
